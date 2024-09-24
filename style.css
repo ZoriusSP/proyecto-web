@@ -1,0 +1,9 @@
+.titulo, .problemas{
+    color: white;
+}
+header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
