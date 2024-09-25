@@ -4,6 +4,17 @@ footer{
 
 }
 
-h3, p{
+h3, .colorTextRosa{
     color: rgb(255, 96, 255);
 }
+
+.titulo, .problemas{
+    color: white;
+}
+header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
