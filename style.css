@@ -3,7 +3,11 @@ footer{
     background-color: bisque;
 
 }
-
+.enlace{
+    border: 2px,solid,white;
+    background-color: white;
+    padding: 5px;
+}
 h3, .colorTextRosa{
     color: rgb(255, 96, 255);
 }
